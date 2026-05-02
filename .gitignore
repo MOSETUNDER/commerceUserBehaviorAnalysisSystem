@@ -4,5 +4,3 @@ target/
 *.log
 node_modules/
 .DS_Store
-archive/olist_geolocation_dataset.csv
-src/main/resources/repurchase_rf.model
